@@ -1,4 +1,4 @@
-#PROFILE
+# PROFILE
 ***
 ## Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/422099698388697108?idleMessage=今は何もしてないよ&hideTimestamp=true
