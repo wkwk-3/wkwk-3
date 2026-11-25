@@ -2,4 +2,4 @@
 
 Minecraft MOD と Windows アプリを作っています。
 
-🌐 **Website:** [static.wkwk3.net](https://static.wkwk3.net/)
+🌐 **Website:** [wkwk3.net](https://wkwk3.net/)
